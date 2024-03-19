@@ -13,14 +13,14 @@ function Auto() {
     <>
     <Marquee>
       <div className="gap-6 flex justify-center items-center bg-gray-200 lg:bg-gray-200">
-        <Image src="/images/html.jpg" width={250} height={200} className="rounded-lg"/>
-        <Image src="/images/css.jpg" width={250} height={180} className="rounded-lg"/>
-        <Image src="/images/js.jpg" width={250} height={200} className="rounded-lg"/>
-        <Image src="/images/react.png" width={250} height={200} className="rounded-lg"/>
-        <Image src="/images/html.jpg" width={250} height={160} className="rounded-lg"/>
-        <Image src="/images/css.jpg" width={250} height={200} className="rounded-lg"/>
-        <Image src="/images/js.jpg" width={250} height={200} className="rounded-lg"/>
-        <Image src="/images/react.png" width={260} height={300} className="rounded-lg mr-4"/>
+        <Image src="/image/html-min.jpg" width={250} height={200} className="rounded-lg"/>
+        <Image src="/image/css-min.jpg" width={250} height={180} className="rounded-lg"/>
+        <Image src="/image/js-min.jpg" width={250} height={200} className="rounded-lg"/>
+        <Image src="/image/react-min.png" width={250} height={200} className="rounded-lg"/>
+        <Image src="/image/html-min.jpg" width={250} height={160} className="rounded-lg"/>
+        <Image src="/image/css-min.jpg" width={250} height={200} className="rounded-lg"/>
+        <Image src="/image/js-min.jpg" width={250} height={200} className="rounded-lg"/>
+        <Image src="/image/react-min.png" width={260} height={300} className="rounded-lg mr-4"/>
       </div>
       </Marquee>
 

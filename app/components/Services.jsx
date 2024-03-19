@@ -15,69 +15,69 @@ function Services() {
                 <div className="grid gap-4" data-aos="fade-up">
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg">
                         <a href="https://shayang00d.netlify.app/"><img className="max-w-full h-full object-cover transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/subs.png" alt="" />
+                            src="/image/subs-min.png" alt="" />
                     </a>
                     </div>
                     
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://shapaterfoods.web.app/"><img className="max-w-full mx-auto h-full object-cover transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/food.png" alt="" />
+                            src="/image/food-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://alimuhammad.netlify.app/bootstrap5/index-link"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/web1.png" alt="" />
+                            src="/image/web1-min.png" alt="" />
                     </a>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-down">
                         <a href="https://shayanw88.netlify.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/revo.png" alt="" />
+                            src="/image/revo-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://alimuhammad.netlify.app/food-website-2/indax"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/food2.png" alt="" />
+                            src="/image/food2-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://shapaterfix.web.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/figma.png" alt="" />
+                            src="/image/figma-min.png" alt="" />
                     </a>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-down">
                         <a href="https://shapaterfix.web.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/sha.png" alt="" />
+                            src="/image/sha-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://shapaterfix.web.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/shap.png" alt="" />
+                            src="/image/shap-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://shayan03.netlify.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/drag.png" alt="" />
+                            src="/image/drag-min.png" alt="" />
                     </a>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-down">
                         <a href="https://shayangame10.netlify.app/"><img className="h-auto max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/bubble.png" alt="" />
+                            src="/image/bubble-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-down">
                         <a href="https://carshapater.web.app/"><img className="h-full max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/car.png" alt="" />
+                            src="/image/car-min.png" alt="" />
                     </a>
                     </div>
                     <div className="transition-all cursor-pointer duration-300 hover:shadow-2xl rounded-lg" data-aos="fade-up">
                         <a href="https://weatherfix.netlify.app/"><img className="h-auto max-w-full transition-all duration-300 rounded-lg blur-sm hover:blur-none"
-                            src="/images/weather.png" alt="" />
+                            src="/image/weather-min.png" alt="" />
                     </a>
                     </div>
                 </div>

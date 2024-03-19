@@ -50,7 +50,7 @@ function About() {
                 </div>
                 <div className="mt-4">
                   <div className="border-t-2 border-gray-300 pt-4 m-2">
-                  <a href="/images/resume.pdf" download>
+                  <a href="/image/resume.pdf" download>
                     <button
                       type="button"
                       className="text-white bg-gradient-to-r from-gray-600 via-gray-500 to-gray-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-gray-400 shadow-lg shadow-gray-500/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center transition ease-in-out duration-150 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 "

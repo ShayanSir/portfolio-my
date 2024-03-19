@@ -24,7 +24,7 @@ function Home() {
             I am a Front End Developer Lorem ipsum dolor sit amet
             consectetur adipisicing elit. Harum, tenetur?
           </p>
-          <a href="/images/resume.pdf">
+          <a href="/image/resume.pdf">
           <button
             type="button"
             className="mt-4 text-white bg-gradient-to-r from-gray-600 via-gray-500 to-gray-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-gray-400  font-medium rounded-lg text-sm px-5 py-2.5 text-center transition ease-in-out duration-150"

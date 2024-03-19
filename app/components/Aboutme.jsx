@@ -9,7 +9,7 @@ function Aboutme() {
           <div className="grid sm:grid-cols-1 md:grid-cols-2">
             <div className="md:py-10 p-2 mx-auto my-auto">
               <img data-aos="fade-down"
-                src="/images/shayan.jpg"
+                src="/image/shayan-min.jpg"
                 alt=""
                 className="md:w-[400px] md:h-[550px] w-[300px] h-[320px] object-cover rounded-[25px]"
               />
